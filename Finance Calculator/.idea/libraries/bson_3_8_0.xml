@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bson-3.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mongo/mongo4idea/lib/bson-3.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongo/mongo4idea/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongo/mongo4idea/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongo/mongo4idea/lib/mongo4idea.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongo/mongo4idea/lib/mongodb-driver-core-3.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongo/mongo4idea/lib/mongodb-driver-3.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
