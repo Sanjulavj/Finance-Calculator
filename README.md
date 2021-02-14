@@ -24,10 +24,9 @@ As the sub features relevant to the main features application includes following
 
 **Aplication Screens**
 
-![Screenshot (432)](https://user-images.githubusercontent.com/55071456/107887529-c3d9b100-6f2c-11eb-9a6a-39b20e4abe70.png)
-![Screenshot (434)](https://user-images.githubusercontent.com/55071456/107887546-d94edb00-6f2c-11eb-88c8-3bf5e60c51de.png)
-![Screenshot (436)](https://user-images.githubusercontent.com/55071456/107887551-dd7af880-6f2c-11eb-89c2-6184e9d2979e.png)
-![Screenshot (438)](https://user-images.githubusercontent.com/55071456/107887552-dfdd5280-6f2c-11eb-89a7-2c4b046466ec.png)
-![Screenshot (439)](https://user-images.githubusercontent.com/55071456/107887553-e23fac80-6f2c-11eb-9069-42d9446e06ec.png)
+![ef0afbd9-e395-4ad9-a245-455fe44b9d5e](https://user-images.githubusercontent.com/55071456/107887796-95f56c00-6f2e-11eb-9020-07f62aa85555.jpg)
+![a71112e4-b9a8-4a81-bc05-b74ba62d1b5b](https://user-images.githubusercontent.com/55071456/107887797-97bf2f80-6f2e-11eb-9a05-214968c1ab21.jpg)
+![cdc68ad6-6897-4ed8-a042-d72df32f0257](https://user-images.githubusercontent.com/55071456/107887798-9a218980-6f2e-11eb-8265-321713f51b4c.jpg)
+
 
 
